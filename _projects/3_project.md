@@ -1,9 +1,7 @@
 ---
 layout: page
 title: 
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+description: A C program that sorts arrays 
 importance: 3
 category: work
 ---
