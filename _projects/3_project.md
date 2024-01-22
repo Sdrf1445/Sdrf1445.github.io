@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Array Sorter 
 description: A C program that sorts arrays 
 importance: 3
 category: work
